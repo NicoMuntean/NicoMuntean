@@ -1,8 +1,7 @@
-## Actual Mandelbulb Maniac
+## Test
 
+![Mandelbulb_Power-Evolution](https://github.com/user-attachments/assets/94371246-a252-44a8-9884-9273075c1b67)
 
-
-https://github.com/user-attachments/assets/ed7cc129-057f-40e7-9b8a-1ca3d64e72b0
 
 
 
