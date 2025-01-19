@@ -1,7 +1,7 @@
 ## Test
 
 <p align="center">
-  <img src="[demo.gif](https://github.com/user-attachments/assets/94371246-a252-44a8-9884-9273075c1b67)" alt="animated" />
+  <img src="https://github.com/user-attachments/assets/94371246-a252-44a8-9884-9273075c1b67" alt="animated" />
 </p>
 
 
