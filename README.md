@@ -1,6 +1,9 @@
 ## Test
 
-![Mandelbulb_Power-Evolution](https://github.com/user-attachments/assets/94371246-a252-44a8-9884-9273075c1b67)
+<p align="center">
+  <img src=![Mandelbulb_Power-Evolution](https://github.com/user-attachments/assets/94371246-a252-44a8-9884-9273075c1b67) alt="animated" />
+</p>
+
 
 
 
