@@ -1,4 +1,10 @@
-## Hi there 👋
+## Actual Mandelbulb Maniac
+
+
+
+https://github.com/user-attachments/assets/ed7cc129-057f-40e7-9b8a-1ca3d64e72b0
+
+
 
 <!--
 **NicoMuntean/NicoMuntean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
