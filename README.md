@@ -8,9 +8,13 @@
 name: Nicolas Muntean
 located_in: Graz, Austria
 current_job: Scientific Assistant th the Lustbühel Observatory Graz
+
 education: { "2019-2023" : "B.Sc. in Physics at Karl-Franzens University Graz",
              "2023-2025" : "M.Sc. in Astrophysics at Karl Franzens University Graz",
              "2000-2025" : "Self taught developer" }
+
+technical_background : { "2015" : "Internship at - Alpen Adria University, Computer Science Department",
+                         "2016" : "Internship at - Alpen Adria University, Computer Science Department" }
 
 ```
 
