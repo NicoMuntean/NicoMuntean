@@ -1,6 +1,4 @@
-<div align: "center"> 
-  Hello Friend 
-</div>
+<h1 align="center">Material Bread</h1>
 
 
 <p align="center">
