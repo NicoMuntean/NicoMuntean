@@ -26,6 +26,17 @@ research_focus: [ "Stellar Astrophysics",
   <img src="https://github.com/user-attachments/assets/ec398a6d-f56e-4cef-847e-6e9b19f5e0e4" height="290" />
 </p>
 
+### I am fluent in the following languages:
+- Java
+- Python
+- IDL
+### I possess basic knowledge in the following languages:
+- Fortran
+- C++
+- ADQL
+### I have worked with the following code packages:
+- Modules for Experiments in Stellar Astrophysics (MESA)
+- GYRE Stellar Oscillation Code
 
 
 **NicoMuntean/NicoMuntean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
