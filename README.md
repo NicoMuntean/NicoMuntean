@@ -2,8 +2,6 @@
   <img src="https://github.com/user-attachments/assets/0d391ed7-7585-4030-8143-721588399734" height="340" />
 </p>
 
-<h1 align="center">Hello Friend</h1>
-
 ## About Me:
 
 ```yaml
