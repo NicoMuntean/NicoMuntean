@@ -26,6 +26,7 @@ research_focus: [ "Stellar Astrophysics",
   <img src="https://github.com/user-attachments/assets/ec398a6d-f56e-4cef-847e-6e9b19f5e0e4" height="290" />
 </p>
 ### I have used and learned the following tools 🛠️, programming languages 📑, and code packages 📦:
+
 ```yaml
 languages_fluent : [ "Java",
                      "Python",
