@@ -1,4 +1,6 @@
-<p align: "center"> ## and </p>
+<p align: "center"> 
+  ## and 
+</p>
 
 
 <p align="center">
