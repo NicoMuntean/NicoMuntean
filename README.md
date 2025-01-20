@@ -37,6 +37,13 @@ languages_basic_knowledge : [ "Fortran",
 
 used_code_packages : [ "Modules for Experiments in Stellar Astrophysics (MESA)",
                        "GYRE Stellar Oscillation Code"]
+
+used_ides : [ "Eclipse",
+               "Visual Studio Code",
+               "Netbeans",
+               "Spyder" ]
+               
+
 ```
 
 
