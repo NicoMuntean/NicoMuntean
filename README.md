@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5e0df9c3-5555-427c-806b-53f6227c39bd" height="340" />
+  <img src="https://github.com/user-attachments/assets/0d391ed7-7585-4030-8143-721588399734" height="340" />
 </p>
 
 <h1 align="center">Hello Friend</h1>
@@ -11,7 +11,6 @@ name: Nicolas Muntean
 located_in: Graz, Austria
 current_job: Scientific Assitast th the Lustbühel Observatory Graz
 ```
-
 
 
 
