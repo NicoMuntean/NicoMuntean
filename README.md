@@ -3,7 +3,9 @@
 ## About Me:
 
 ```yaml
-* YOUR TEXT GOES HERE *
+name: Nicolas Muntean
+located_in: Graz, Austria
+current_job: Scientific Assitast th the Lustbühel Observatory Graz
 ```
 
 
