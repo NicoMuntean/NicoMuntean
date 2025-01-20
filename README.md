@@ -1,6 +1,6 @@
-<p align: "center"> 
+<div align: "center"> 
   Hello Friend 
-</p>
+</div>
 
 
 <p align="center">
