@@ -17,8 +17,8 @@ technical_background : { "2015" : "Internship at - Alpen Adria University, Compu
                          "2016" : "Internship at - Alpen Adria University, Computer Science Department" }
 
 research_focus: [ "Stellar Astrophysics",
-                 "Red Gaint Seismology",
-                 "Binary System Seismology" ]
+                  "Red Gaint Seismology",
+                  "Binary System Seismology" ]
 
 ```
 
