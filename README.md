@@ -53,6 +53,12 @@ used_ides : [ "Eclipse",
 </p>
 
 ### I am actively developing these pet projects:
+### FractalRenderer 🧊
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/864893f6-1737-4b7c-ae27-e12692cab951" alt="animated" />
+</p>
+
 
 
 
