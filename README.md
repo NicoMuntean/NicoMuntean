@@ -22,11 +22,12 @@ research_focus: [ "Stellar Astrophysics",
 
 ```
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/913dc2c5-36a7-4f03-ab5c-f849a16a5438" height="290" />
+</p>
 
 
 
-
-<!--
 **NicoMuntean/NicoMuntean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
