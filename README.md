@@ -7,7 +7,7 @@
 ```yaml
 name: Nicolas Muntean
 located_in: Graz, Austria
-current_job: Scientific Assitast th the Lustbühel Observatory Graz
+current_job: Scientific Assistant th the Lustbühel Observatory Graz
 ```
 
 
