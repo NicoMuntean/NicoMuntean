@@ -10,7 +10,7 @@ current_job: Scientific Assitast th the Lustbühel Observatory Graz
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b7ed00c0-a8ef-447b-a65b-881cf3977b0e" height="450" />
+  <img src="https://github.com/user-attachments/assets/d021d146-7c3c-4087-97ba-a7d7253fc27c" height="450" />
 </p>
 
 
