@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/e0f5f05a-4923-4cbd-8187-2dc201f27e42" height="290" />
 </p>
 
-## About Me:
+### About Me:
 
 ```yaml
 name: Nicolas Muntean
