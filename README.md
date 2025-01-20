@@ -23,7 +23,7 @@ research_focus: [ "Stellar Astrophysics",
 ```
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/913dc2c5-36a7-4f03-ab5c-f849a16a5438" height="290" />
+  <img src="https://github.com/user-attachments/assets/ec398a6d-f56e-4cef-847e-6e9b19f5e0e4" height="290" />
 </p>
 
 
