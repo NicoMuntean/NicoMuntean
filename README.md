@@ -16,6 +16,10 @@ education: { "2019-2023" : "B.Sc. in Physics at Karl-Franzens University Graz",
 technical_background : { "2015" : "Internship at - Alpen Adria University, Computer Science Department",
                          "2016" : "Internship at - Alpen Adria University, Computer Science Department" }
 
+research_focus: [ "Stellar Astrophysics",
+                 "Red Gaint Seismology",
+                 "Binary System Seismology" ]
+
 ```
 
 
