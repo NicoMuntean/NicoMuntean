@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/e0f5f05a-4923-4cbd-8187-2dc201f27e42" height="290" />
 </p>
 
-# 🔭 About Me:
+## 🔭 About Me:
 
 ```yaml
 name:                   "Nicolas Muntean"
@@ -31,7 +31,7 @@ interests:            [ "Java based projects",
   <img src="https://github.com/user-attachments/assets/ec398a6d-f56e-4cef-847e-6e9b19f5e0e4" height="290" />
 </p>
 
-### I have used and studied the following tools 🛠️, programming languages 📑, and code packages 📦:
+## I have used and studied the following tools 🛠️, programming languages 📑, and code packages 📦:
 
 ```yaml
 languages_fluent:          [ "Java",
@@ -58,13 +58,13 @@ used_IDEs:                 [ "Eclipse",
   <img src="https://github.com/user-attachments/assets/2394e51a-79f1-4e29-b8ba-6568f575f651" height="290" />
 </p>
 
-### FractalRenderer 🧊:
+# FractalRenderer 🧊:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/864893f6-1737-4b7c-ae27-e12692cab951" alt="animated" width="320" height="290"/>
 </p>
 
-## project Overview 🗒️:
+### project Overview 🗒️:
 - Developed in 100% vanilla Java 💻
 - CPU-based rendering of 3D-fractals (Currently only Mandelbulb) ⚙️
 - Freely adjustable fractal-geometry parameters 📓
@@ -74,13 +74,13 @@ used_IDEs:                 [ "Eclipse",
 - Freely placable camera- and light object 📸
 - Size of the resulting PNG image adjustable 🖼️
 
-### GaiaSim 🧬:
+# GaiaSim 🧬:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6b2ca92e-4f5c-4e22-beee-585a86ef1a48" alt="animated" height="290" width="320"/>
 </p>
 
-### 2DWinter 🌨️:
+# 2DWinter 🌨️:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3ba7dc64-42f0-4d79-8643-f819703c6b6c" alt="animated" height="290" width ="636"/>
