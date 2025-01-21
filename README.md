@@ -21,9 +21,9 @@ research_focus: [ "Stellar Astrophysics",
                   "Binary System Seismology" ]
 
 interests: [ "Java based projects",
-             "Fractals",
+             "Fractals (Especially the Mandelbulb)",
              "Procederal Generation",
-             "Vanilla programming (for pet projects ;-) )" ]
+             "Vanilla Java programming (for pet projects ;-) )" ]
 
 ```
 
