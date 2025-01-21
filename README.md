@@ -20,6 +20,11 @@ research_focus: [ "Stellar Astrophysics",
                   "Red Gaint Seismology",
                   "Binary System Seismology" ]
 
+interests: [ "Java based projects",
+             "Fractals",
+             "Procederal Generation",
+             "Vanilla programming (for pet projects ;-) )" ]
+
 ```
 
 <p align="center">
