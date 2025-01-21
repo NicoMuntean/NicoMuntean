@@ -61,7 +61,7 @@ used_ides : [ "Eclipse",
 ### GaiaSim 🧬:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6b2ca92e-4f5c-4e22-beee-585a86ef1a48" alt="animated" height="350" width="350"/>
+  <img src="https://github.com/user-attachments/assets/6b2ca92e-4f5c-4e22-beee-585a86ef1a48" alt="animated" height="355" width="355"/>
 </p>
 
 ### 2DWinter 🌨️:
