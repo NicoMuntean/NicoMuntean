@@ -98,6 +98,7 @@ used_IDEs:                 [ "Eclipse",
 - Developed 100% in vanilla Java 💻
 - Terraria inspired 2D sandbox 🏞️
 - Freely destroy- and placeable tiles 🟩🟫
+- Procedural generated tilemap employing midpoint displacement 📈📉
 - Day- and night cycle ☀️🌘
 - Distance and time based illumination system 💡
 
