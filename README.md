@@ -68,7 +68,7 @@ used_IDEs:                 [ "Eclipse",
 - CPU-based rendering of 3D-fractals (Currently only Mandelbulb) ⚙️
 - Freely adjustable fractal-geometry parameters 📓
 - Employs Ray-Marching for fractal surface approximation 🩻
-- Implemented Phong-Lightning model 🌓
+- Implemented Phong reflection model 🌓
 - Enhanced shadow physics due to ray-tracing ☀️
 - Freely placable camera- and light object 📸
 - Size of the resulting PNG image adjustable 🖼️
