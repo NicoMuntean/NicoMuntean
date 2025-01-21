@@ -5,9 +5,9 @@
 ### 🔭 About Me:
 
 ```yaml
-name:                 "Nicolas Muntean"
-located_in:           "Graz, Austria"
-current_job:          "Scientific Assistant at the Lustbühel Observatory Graz"
+name:                   "Nicolas Muntean"
+located_in:             "Graz, Austria"
+current_job:            "Scientific Assistant at the Lustbühel Observatory Graz"
 
 education:            { "2019-2023" : "B.Sc. in Physics at Karl-Franzens University Graz",
                         "2023-2025" : "M.Sc. in Astrophysics at Karl Franzens University Graz",
@@ -34,21 +34,21 @@ interests:            [ "Java based projects",
 ### I have used and learned the following tools 🛠️, programming languages 📑, and code packages 📦:
 
 ```yaml
-languages_fluent : [ "Java",
-                     "Python",
-                     "IDL" ]
+languages_fluent :          [ "Java",
+                              "Python",
+                              "IDL" ]
 
 languages_basic_knowledge : [ "Fortran",
                               "C++",
                               "ADQL" ]
 
-used_code_packages : [ "Modules for Experiments in Stellar Astrophysics (MESA)",
-                       "GYRE Stellar Oscillation Code"]
+used_code_packages :        [ "Modules for Experiments in Stellar Astrophysics (MESA)",
+                              "GYRE Stellar Oscillation Code"]
 
-used_ides : [ "Eclipse",
-               "Visual Studio Code",
-               "Netbeans",
-               "Spyder" ]
+used_ides :                 [ "Eclipse",
+                              "Visual Studio Code",
+                              "Netbeans",
+                              "Spyder" ]
                
 
 ```
