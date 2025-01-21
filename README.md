@@ -95,5 +95,11 @@ used_IDEs:                 [ "Eclipse",
   <img src="https://github.com/user-attachments/assets/3ba7dc64-42f0-4d79-8643-f819703c6b6c" alt="animated" height="290" width ="636"/>
 </p>
 
+- Developed 100% in vanilla Java 💻
+- Terraria inspired 2D sandbox 🏞️
+- Freely destroy- and placeable tiles 🟩🟫
+- Day- and night cycle ☀️🌘
+- Distance and time based illumination system 💡
+
 
 
