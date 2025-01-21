@@ -55,13 +55,13 @@ used_ides : [ "Eclipse",
 ### FractalRenderer 🧊:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/864893f6-1737-4b7c-ae27-e12692cab951" alt="animated" width="290" height="290"/>
+  <img src="https://github.com/user-attachments/assets/864893f6-1737-4b7c-ae27-e12692cab951" alt="animated" width="320" height="290"/>
 </p>
 
 ### GaiaSim 🧬:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6b2ca92e-4f5c-4e22-beee-585a86ef1a48" alt="animated" height="290" width="290"/>
+  <img src="https://github.com/user-attachments/assets/6b2ca92e-4f5c-4e22-beee-585a86ef1a48" alt="animated" height="320" width="320"/>
 </p>
 
 ### 2DWinter 🌨️:
