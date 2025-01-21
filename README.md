@@ -87,6 +87,7 @@ used_IDEs:                 [ "Eclipse",
   - Self-preservation efficiency governed by network adaptation to environment 🥇
 - Procedural environment generation employing Perlin Noise ☁️
 - Simple ecosystem simulation (regrowable food sources, height climate, ...) 🍏⛰️
+- Freely moveable and zoomable camera 📷
   
 ## 2DWinter 🌨️:
 
