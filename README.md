@@ -83,7 +83,6 @@ used_IDEs:                 [ "Eclipse",
 - Evolution simulation of lifeforms employing inherited mutation 🧬
   - Lifeforms posess simple self developed neural-network, governing their actions 🧠
   - Network weights influenced by mutation 🤖
-  - Lifeforms Full 360 degree motion 🧭
   - Self-preservation efficiency governed by network adaptation to environment 🥇
 - Procedural environment generation employing Perlin Noise ☁️
 - Simple ecosystem simulation (regrowable food sources, height climate, ...) 🍏⛰️
