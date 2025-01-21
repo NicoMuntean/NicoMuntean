@@ -64,6 +64,16 @@ used_IDEs:                 [ "Eclipse",
   <img src="https://github.com/user-attachments/assets/864893f6-1737-4b7c-ae27-e12692cab951" alt="animated" width="320" height="290"/>
 </p>
 
+## project Overview 🗒️:
+- Developed in 100% vanilla Java 💻
+- CPU-based rendering of 3D-fractals (Currently only Mandelbulb) ⚙️
+- Freely adjustable fractal-geometry parameters 📓
+- Employs Ray-Marching for fractal surface approximation 🩻
+- Implemented Phong-Lightning model 🌓
+- Enhanced shadow physics due to ray-tracing ☀️
+- Freely placable camera- and light object 📸
+- Size of the resulting PNG image adjustable 🖼️
+
 ### GaiaSim 🧬:
 
 <p align="center">
