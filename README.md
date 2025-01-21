@@ -34,21 +34,21 @@ interests:            [ "Java based projects",
 ### I have used and studied the following tools 🛠️, programming languages 📑, and code packages 📦:
 
 ```yaml
-languages_fluent :          [ "Java",
-                              "Python",
-                              "IDL" ]
+languages_fluent:          [ "Java",
+                             "Python",
+                             "IDL" ]
 
-languages_basic_knowledge : [ "Fortran",
-                              "C++",
-                              "ADQL" ]
+languages_basic_knowledge: [ "Fortran",
+                             "C++",
+                             "ADQL" ]
 
-used_code_packages :        [ "Modules for Experiments in Stellar Astrophysics (MESA)",
-                              "GYRE Stellar Oscillation Code"]
+used_code_packages:        [ "Modules for Experiments in Stellar Astrophysics (MESA)",
+                             "GYRE Stellar Oscillation Code"]
 
-used_ides :                 [ "Eclipse",
-                              "Visual Studio Code",
-                              "Netbeans",
-                              "Spyder" ]
+used_ides:                 [ "Eclipse",
+                             "Visual Studio Code",
+                             "Netbeans",
+                             "Spyder" ]
                
 
 ```
