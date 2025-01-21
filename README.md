@@ -48,7 +48,8 @@ used_code_packages:        [ "Modules for Experiments in Stellar Astrophysics (M
 used_ides:                 [ "Eclipse",
                              "Visual Studio Code",
                              "Netbeans",
-                             "Spyder" ]
+                             "Spyder",
+                             "IDL DE" ]
                
 
 ```
