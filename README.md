@@ -80,7 +80,7 @@ used_IDEs:                 [ "Eclipse",
 </p>
 
 - Developed in 100% vanilla Java 💻
-- Simulates evolution of lifeforms employing inherited mutation 🧬
+- Evolution simulation of lifeforms employing inherited mutation 🧬
   - Lifeforms posess simple self developed neural-network, governing their actions 🧠
   - Network weights influenced by mutation 🤖
   - Lifeforms Full 360 degree motion 🧭
