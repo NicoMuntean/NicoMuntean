@@ -5,18 +5,18 @@
 ### 🔭 About Me:
 
 ```yaml
-String name        = "Nicolas Muntean";
-String located_in  = "Graz, Austria";
-String current_job = "Scientific Assistant at the Lustbühel Observatory Graz";
+name: "Nicolas Muntean";
+located_in: "Graz, Austria";
+current_job: "Scientific Assistant at the Lustbühel Observatory Graz";
 
-education   = { "2019-2023" : "B.Sc. in Physics at Karl-Franzens University Graz",
-               "2023-2025" : "M.Sc. in Astrophysics at Karl Franzens University Graz",
-               "2000-2025" : "Self taught developer" }
+education: { "2019-2023" : "B.Sc. in Physics at Karl-Franzens University Graz",
+             "2023-2025" : "M.Sc. in Astrophysics at Karl Franzens University Graz",
+             "2000-2025" : "Self taught developer" }
 
-technical_background = { "2015" : "Internship at - Alpen Adria University, Computer Science Department",
-                         "2016" : "Internship at - Alpen Adria University, Computer Science Department" }
+technical_background: { "2015" : "Internship at - Alpen Adria University, Computer Science Department",
+                        "2016" : "Internship at - Alpen Adria University, Computer Science Department" }
 
-research_focus = [ "Stellar Astrophysics",
+research_focus: [ "Stellar Astrophysics",
                   "Red Gaint Seismology",
                   "Binary System Seismology" ]
 
