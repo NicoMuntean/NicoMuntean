@@ -75,6 +75,15 @@ used_IDEs:                 [ "Eclipse",
 
 ## GaiaSim 🧬:
 
+- Developed in 100% vanilla Java 💻
+- Simulates evolution of lifeforms employing inherited mutation 🧬
+  - Lifeforms posess simple self developed neural-network, governing their actions 🧠
+  - Network weights influenced by mutation 🤖
+  - Lifeforms Full 360 degree motion 🧭
+  - Self-preservation efficiency governed by network adaptation to environment 🥇
+- Procedural environment generation employing Perlin Noise 📶
+- Simple ecosystem simulation (regrowable food sources, height climate, ...) 🍏⛰️
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6b2ca92e-4f5c-4e22-beee-585a86ef1a48" alt="animated" height="290" width="320"/>
 </p>
