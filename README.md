@@ -67,7 +67,7 @@ used_ides : [ "Eclipse",
 ### 2DWinter 🌨️:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/43521425-fefc-4516-ae86-23d3f5c9cc58" alt="animated" height="290",width="580"/>
+  <img src="https://github.com/user-attachments/assets/43521425-fefc-4516-ae86-23d3f5c9cc58" alt="animated" height="350",width="580"/>
 </p>
 
 
