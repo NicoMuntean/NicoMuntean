@@ -85,7 +85,7 @@ used_IDEs:                 [ "Eclipse",
   - Network weights influenced by mutation 🤖
   - Lifeforms Full 360 degree motion 🧭
   - Self-preservation efficiency governed by network adaptation to environment 🥇
-- Procedural environment generation employing Perlin Noise 📶
+- Procedural environment generation employing Perlin Noise ☁️
 - Simple ecosystem simulation (regrowable food sources, height climate, ...) 🍏⛰️
   
 ## 2DWinter 🌨️:
