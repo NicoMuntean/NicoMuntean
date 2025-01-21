@@ -28,7 +28,7 @@ interests:            [ "Java based projects",
 ```
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ec398a6d-f56e-4cef-847e-6e9b19f5e0e4" height="290" />
+  <img src="https://github.com/user-attachments/assets/d2049311-dddc-40e1-bbf7-6c470f3f8760" height="290" />
 </p>
 
 ## Tools 🛠️, programming languages 📑, and code packages 📦 I have studied and used:
