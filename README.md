@@ -9,9 +9,9 @@ name:                   "Nicolas Muntean"
 located_in:             "Klosterneuburg, Austria"
 current_job:            "PhD Student at IST Austria"
 
-education:            { "2019-2023" : "B.Sc. in Physics at Karl-Franzens University Graz",
-                        "2023-2025" : "M.Sc. in Astrophysics at Karl Franzens University Graz"
-                        "2025- "    : "PhD. at IST Austria}
+education:            { "2019-2023"    : "B.Sc. in Physics at Karl-Franzens University Graz",
+                        "2023-2025"    : "M.Sc. in Astrophysics at Karl Franzens University Graz"
+                        "2025-ongoing" : "Ph.D. at IST Austria}
 
 technical_background: { "2015" : "Internship at - Alpen Adria University, Computer Science Department",
                         "2016" : "Internship at - Alpen Adria University, Computer Science Department" }
